@@ -12,6 +12,7 @@ Projede Kullanılan Malzemeler :Arduino UNO,
 Devre Şeması:
 ![Capture](https://github.com/echoo35/Bluetooth-Kontroll--Araba/assets/135036416/2f4c126f-fcb9-461b-be84-d4833a528ee0)
 
+Youtube: https://www.youtube.com/watch?v=E6ht1CVi00E&list=LLW0pkwfGktsSa18I28B2Ouw
 Prjeyi Gerçekleştirenler :
 Berkay Acar
 Ahmet Bayram Sönmez
